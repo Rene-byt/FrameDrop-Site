@@ -1,0 +1,1 @@
+FrameDropBot landing page\n\nOpen index.html to preview.\nTo connect the bot, replace REPLACE_WITH_YOUR_BOT in script.js with the bot username.\nDesktop and mobile layouts are handled by one responsive page.\n
